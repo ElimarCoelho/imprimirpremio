@@ -1,0 +1,18 @@
+{
+  "UserInfo":[
+    {
+      "User":"Elimar",
+      "Surname":"Coelho",
+      "Player":"Intro Vr",
+      "MaxGod":"Rio",
+      "Team":"Equipo"
+    },
+    {
+      "User":"Caroline",
+      "Surname":"Wege",
+      "Player":"Jogador",
+      "MaxGod":"Parana",
+      "Team":"Verde"
+    } 
+  ]
+}
